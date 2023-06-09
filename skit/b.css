@@ -1,0 +1,60 @@
+.containeri img
+{
+width:10px;
+height:165px;
+}
+.navbar-brand
+{
+    margin-left: 2rem;
+}
+.navbar-toggler
+{
+    margin-right: 2rem;
+}
+.skit_logo img
+{
+    margin-left:12vh;
+    margin-top:2vh;
+    margin-bottom: 4vh;
+}
+#txt
+{   
+    font-family:'Times New Roman', Times, serif;
+    font-size:26px;
+    font-weight: bolder;
+    margin-bottom: 2vh;
+}
+.bk
+{
+    font-family:'Times New Roman', Times, serif; 
+    font-size:26px; 
+    font-style:italic;
+}
+.z
+{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.z button 
+{
+    border:none; 
+    font-size:30px; 
+    border-radius:12px 12px 12px 12px;
+    margin-bottom:30px;
+    align-items: center;
+    background-color:#526D82;
+    color:white;
+    width:100%;
+}
+.collapse 
+{
+margin-left:2vh;
+}
+.carousel-item img
+{
+    height:180px;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: black;
+    color:white;
+}
